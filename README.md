@@ -13,9 +13,11 @@
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=mageAoe&theme=xcode" /> </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mageAoe&theme=dracula)](https://github.com/mageAoe/github-readme-activity-graph)
+
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mageAoe" /> </div>
 
-<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=mageAoe"> </div>
+<!--  <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=mageAoe"> </div> -->
 
 <!--
 **mageAoe/mageAoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
