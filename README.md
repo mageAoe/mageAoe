@@ -13,9 +13,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mageAoe.visitor-badge&left_color=green&right_color=red)
 
-
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=mageAoe&theme=xcode" /> </div>
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mageAoe&theme=dracula)](https://github.com/mageAoe/github-readme-activity-graph)
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mageAoe" /> </div>
